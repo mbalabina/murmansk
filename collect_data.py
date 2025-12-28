@@ -9,7 +9,34 @@ API_KEY = os.environ["G_MAPS_KEY"]
 
 MURMANSK_CENTER = (68.970682, 33.074690)
 SEARCH_RADIUS = 10000
-TARGET_TYPES = ['cafe', 'shopping_mall', 'library', 'park']
+TARGET_TYPES = [
+    # 1. ТЕПЛЫЕ "ТРЕТЬИ МЕСТА" (Учеба, общение)
+    'cafe',             # Кофейни
+    'library',          # Библиотеки
+    'book_store',       # Книжные (часто с кафе)
+    'art_gallery',      # Галереи
+    'museum',           # Музеи
+
+    # 2. ПОТРЕБЛЕНИЕ И КОМФОРТ (Убежище от холода)
+    'shopping_mall',    # ТЦ (ключевые точки)
+    'restaurant',       # Рестораны
+    'food_court',       # Фудкорты 
+
+    # 3. ОТКРЫТЫЕ ПРОСТРАНСТВА (Для сравнения "улица vs помещение")
+    'park',             # Парки
+    'town_square',      # Площади
+
+    # 4. АКТИВНЫЙ И ВЕЧЕРНИЙ ДОСУГ
+    'movie_theater',    # Кинотеатры
+    'bar',              # Бары
+    'night_club',       # Клубы
+    'bowling_alley',    # Боулинг
+    'gym',              # Спортзалы (фитнес)
+
+    # 5. ТРАНСПОРТНЫЕ УЗЛЫ (Маркер ритма города)
+    'train_station',    # Вокзал
+    'transit_station'   # Остановки
+]
 CSV_FILE = "murmansk_data.csv"
 
 def run_collection():
