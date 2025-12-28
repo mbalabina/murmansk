@@ -1,0 +1,39 @@
+name: Hourly Data Collection
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Запускать каждый час (в 00 минут)
+  workflow_dispatch:      # Разрешить ручной запуск (кнопкой)
+
+permissions:
+  contents: write         # Разрешить скрипту сохранять файл обратно
+
+jobs:
+  collect-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          
+      - name: Run script
+        env:
+          G_MAPS_KEY: ${{ secrets.G_MAPS_KEY }}  # Передаем ключ из секретов
+        run: python collect_data.py
+        
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "bot@github.com"
+          git add murmansk_data.csv
+          git commit -m "Auto-update data" || echo "No changes to commit"
+          git push
