@@ -4,20 +4,19 @@ import pandas as pd
 from datetime import datetime
 import os
 
-# Получаем ключ из "секретов" GitHub (чтобы не светить его в коде)
 API_KEY = os.environ["G_MAPS_KEY"]
 
 MURMANSK_CENTER = (68.970682, 33.074690)
 SEARCH_RADIUS = 10000
 TARGET_TYPES = [
-    # 1. ТЕПЛЫЕ "ТРЕТЬИ МЕСТА" (Учеба, общение)
+    # 1.  "ТРЕТЬИ МЕСТА" (Учеба, общение)
     'cafe',             # Кофейни
     'library',          # Библиотеки
     'book_store',       # Книжные (часто с кафе)
     'art_gallery',      # Галереи
     'museum',           # Музеи
 
-    # 2. ПОТРЕБЛЕНИЕ И КОМФОРТ (Убежище от холода)
+    # 2. ПОТРЕБЛЕНИЕ И КОМФОРТ 
     'shopping_mall',    # ТЦ (ключевые точки)
     'restaurant',       # Рестораны
     'food_court',       # Фудкорты 
@@ -43,7 +42,7 @@ def run_collection():
     print(f"--- ЗАПУСК СБОРА: {datetime.now()} ---")
     gmaps = googlemaps.Client(key=API_KEY)
     
-    # 1. Ищем места (быстрый поиск)
+    # 1. Поиск места 
     places_to_check = {}
     for t in TARGET_TYPES:
         try:
@@ -55,7 +54,7 @@ def run_collection():
         
     print(f"Найдено мест: {len(places_to_check)}")
 
-    # 2. Собираем данные
+    # 2. Сбор данных
     new_rows = []
     for pid, info in places_to_check.items():
         try:
@@ -74,13 +73,13 @@ def run_collection():
                 })
         except: pass
 
-    # 3. Дописываем в CSV
+    # 3.  CSV
     if new_rows:
         df = pd.DataFrame(new_rows)
         # Если файла нет - создаем с заголовками. Если есть - дописываем без заголовков.
         file_exists = os.path.isfile(CSV_FILE)
         df.to_csv(CSV_FILE, mode='a', header=not file_exists, index=False)
-        print(f"✅ Добавлено {len(new_rows)} записей в {CSV_FILE}")
+        print(f" Добавлено {len(new_rows)} записей в {CSV_FILE}")
     else:
         print("Нет данных для записи.")
 
