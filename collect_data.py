@@ -8,7 +8,7 @@ import os
 API_KEY = os.environ["G_MAPS_KEY"]
 
 MURMANSK_CENTER = (68.970682, 33.074690)
-SEARCH_RADIUS = 3000
+SEARCH_RADIUS = 10000
 TARGET_TYPES = ['cafe', 'shopping_mall', 'library', 'park']
 CSV_FILE = "murmansk_data.csv"
 
