@@ -1,0 +1,4 @@
+googlemaps
+pandas
+openpyxl
+git+https://github.com/GrocerCheck/LivePopularTimes.git
