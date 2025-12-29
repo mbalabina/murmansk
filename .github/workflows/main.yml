@@ -34,6 +34,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "bot@github.com"
-          git add murmansk_data.csv
+          git add murmansk_data_v2.csv
           git commit -m "Auto-update data" || echo "No changes to commit"
           git push
