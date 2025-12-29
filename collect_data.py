@@ -41,7 +41,7 @@ TARGET_TYPES = [
     'sports_coaching',
     'sports_complex',
     'stadium',
-    'adventure_sports_center',
+    'adventure_sports_center'
     
 ]
 CSV_FILE = "murmansk_data_v2.csv"
