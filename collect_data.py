@@ -34,7 +34,15 @@ TARGET_TYPES = [
     'bowling_alley',    
     'gym',              
     'train_station',    
-    'transit_station'   
+    'transit_station',
+    'sports_activity_location',
+    'bakery',
+    'arena',
+    'sports_coaching',
+    'sports_complex',
+    'stadium',
+    'adventure_sports_center',
+    
 ]
 CSV_FILE = "murmansk_data_v2.csv"
 
