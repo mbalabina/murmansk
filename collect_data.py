@@ -1,7 +1,7 @@
 import googlemaps
 import livepopulartimes
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
 
 API_KEY = os.environ["G_MAPS_KEY"]
@@ -9,45 +9,49 @@ API_KEY = os.environ["G_MAPS_KEY"]
 MURMANSK_CENTER = (68.970682, 33.074690)
 SEARCH_RADIUS = 10000
 TARGET_TYPES = [
-    # 1.  "ТРЕТЬИ МЕСТА" (Учеба, общение)
-    'cafe',             # Кофейни
-    'library',          # Библиотеки
-    'book_store',       # Книжные (часто с кафе)
-    'art_gallery',      # Галереи
-    'museum',           # Музеи
+    # 1. "ТРЕТЬИ МЕСТА"
+    'cafe',             
+    'library',          
+    'book_store',       
+    'art_gallery',      
+    'museum',           
 
     # 2. ПОТРЕБЛЕНИЕ И КОМФОРТ 
-    'shopping_mall',    # ТЦ (ключевые точки)
-    'restaurant',       # Рестораны
-    'food_court',       # Фудкорты 
+    'shopping_mall',    
+    'restaurant',       
+    'food_court',       
 
-    # 3. ОТКРЫТЫЕ ПРОСТРАНСТВА (Для сравнения "улица vs помещение")
-    'park',             # Парки
-    'town_square',      # Площади
+    # 3. ОТКРЫТЫЕ ПРОСТРАНСТВА
+    'park',             
+    'town_square',      
 
     # 4. АКТИВНЫЙ И ВЕЧЕРНИЙ ДОСУГ
-    'movie_theater',    # Кинотеатры
-    'bar',              # Бары
-    'night_club',       # Клубы
-    'bowling_alley',    # Боулинг
-    'gym',              # Спортзалы (фитнес)
+    'movie_theater',    
+    'bar',              
+    'night_club',       
+    'bowling_alley',    
+    'gym',              
 
-    # 5. ТРАНСПОРТНЫЕ УЗЛЫ (Маркер ритма города)
-    'train_station',    # Вокзал
-    'transit_station'   # Остановки
+    # 5. ТРАНСПОРТНЫЕ УЗЛЫ
+    'train_station',    
+    'transit_station'   
 ]
 CSV_FILE = "murmansk_data.csv"
 
 def run_collection():
-    print(f"--- ЗАПУСК СБОРА: {datetime.now()} ---")
+    # Красивое время запуска (MSK)
+    msk_now = datetime.now() + timedelta(hours=3)
+    print(f"--- ЗАПУСК СБОРА: {msk_now} (MSK) ---")
+    
     gmaps = googlemaps.Client(key=API_KEY)
     
-    # 1. Поиск места 
+    # 1. Поиск мест
     places_to_check = {}
     for t in TARGET_TYPES:
         try:
             res = gmaps.places_nearby(location=MURMANSK_CENTER, radius=SEARCH_RADIUS, type=t)
             for p in res.get('results', []):
+                # Берем места, где больше 10 отзывов (чтобы отсеять мусор)
                 if p.get('user_ratings_total', 0) > 10:
                     places_to_check[p['place_id']] = {'name': p['name'], 'type': t}
         except: pass
@@ -61,27 +65,31 @@ def run_collection():
             details = livepopulartimes.get_populartimes_by_PlaceID(API_KEY, pid)
             current = details.get('current_popularity')
             
-            # Сохраняем, даже если нет live-данных (пишем None), чтобы видеть "пропуски"
-            # Но лучше сохранять только когда current не None, чтобы не раздувать файл
-            if current is not None:
-                new_rows.append({
-                    "timestamp": datetime.now().isoformat(),
-                    "place_name": info['name'],
-                    "place_type": info['type'],
-                    "place_id": pid,
-                    "live_popularity": current
-                })
-        except: pass
+            # Добавляем 3 часа к UTC, чтобы в файле было время Мурманска
+            msk_time = datetime.now() + timedelta(hours=3)
+            
+            # Сохраняем ВСЕГДА. Если данных нет (None), пишем 0.
+            new_rows.append({
+                "timestamp": msk_time.strftime('%Y-%m-%d %H:%M:%S'),
+                "place_name": info['name'],
+                "place_type": info['type'],
+                "place_id": pid,
+                "live_popularity": current if current is not None else 0
+            })
+            
+        except Exception:
+            # Если ошибка с конкретным местом (нет прав, удалено и т.д.) - пропускаем
+            pass
 
-    # 3.  CSV
+    # 3. Сохранение в CSV
     if new_rows:
         df = pd.DataFrame(new_rows)
-        # Если файла нет - создаем с заголовками. Если есть - дописываем без заголовков.
+        # Если файла нет - создаем с заголовками. Если есть - дописываем.
         file_exists = os.path.isfile(CSV_FILE)
         df.to_csv(CSV_FILE, mode='a', header=not file_exists, index=False)
         print(f" Добавлено {len(new_rows)} записей в {CSV_FILE}")
     else:
-        print("Нет данных для записи.")
+        print(" Нет данных для записи (странно, должно быть хоть что-то с нулями).")
 
 if __name__ == "__main__":
     run_collection()
