@@ -4952,3 +4952,358 @@ timestamp,place_name,place_type,place_id,live_popularity
 2025-12-30 18:46:10,Merry baker,bakery,ChIJE-cDAQVOhUQRK2WBztOM0Og,0
 2025-12-30 18:46:11,Testu Mesto,bakery,ChIJjYjXkvIPNEQRRkPgYvpm_lg,0
 2025-12-30 18:46:12,"Stadium ""Icicle""",stadium,ChIJ-XHJZocPNEQRkEfRO4U1dSI,0
+2025-12-30 19:55:49,Tea spoon,restaurant,ChIJAdxF_SkQNEQRVpGKVrKMY2U,0
+2025-12-30 19:55:50,M-Klub,bar,ChIJBWEhAyoQNEQR0_k-KwKfRsE,0
+2025-12-30 19:55:50,Vkusnoochen',cafe,ChIJXc4MuSsQNEQR7dNGzoe3veI,0
+2025-12-30 19:55:51,Рюмочная N° 1,cafe,ChIJH09FDNYPNEQRJonBYtKcOx8,0
+2025-12-30 19:55:52,White Rabbit,bakery,ChIJUUuUHikQNEQRs2uwXA0V0io,41
+2025-12-30 19:55:52,Yunost',cafe,ChIJWcLovNoPNEQRAxzl61h9Mvg,0
+2025-12-30 19:55:53,Lavka Moroshka,cafe,ChIJ66WGqNcPNEQR4OP6JvHuWMI,0
+2025-12-30 19:55:54,Yunost',cafe,ChIJaSRcRBFShUQRTSWXRNJaPEE,0
+2025-12-30 19:55:55,Shtolle,bakery,ChIJlceuURVShUQREIM-nzI3Y-s,0
+2025-12-30 19:55:55,"Тундра, Grill & Bar",bar,ChIJT8zUHCcQNEQROOKYAUCVqvU,61
+2025-12-30 19:55:56,Pivlyandiya,bar,ChIJB3pwnS0QNEQR4vTr5yb8X94,0
+2025-12-30 19:55:57,Gray Goose,bar,ChIJPW7avdAPNEQRvsTcnwNdwV4,0
+2025-12-30 19:55:57,Briz,cafe,ChIJt8Z1tTIQNEQR47kkDKisP3E,0
+2025-12-30 19:55:58,Pizza 51,bar,ChIJ6eIL8yQQNEQRJfyO22Au3vc,0
+2025-12-30 19:55:59,Sim-Sim,bar,ChIJA8O83eYPNEQR99zp_37h8BA,0
+2025-12-30 19:55:59,Chinar,bar,ChIJA8O83eYPNEQRqDkBr66GyGA,0
+2025-12-30 19:56:00,Elmin,cafe,ChIJvarOph8QNEQRd2SzdBp05_M,0
+2025-12-30 19:56:00,Ilmin,bar,ChIJswWoVgVShUQRhTx6PPUYNeM,0
+2025-12-30 19:56:01,Пиццерийка,restaurant,ChIJPYRknMMPNEQRPzZg4i6oLNs,0
+2025-12-30 19:56:02,Gradusy,bar,ChIJf41uEzUQNEQRGxLOgmBlfdw,0
+2025-12-30 19:56:03,Bondzhorno,restaurant,ChIJA8O83eYPNEQR2S2F19XxraE,0
+2025-12-30 19:56:03,Delicafe,cafe,ChIJ0zwfKioQNEQRMYrpM4r_Qxc,0
+2025-12-30 19:56:04,Five corners,cafe,ChIJqfQ8EBRShUQRQO2aG4FdIig,0
+2025-12-30 19:56:04,Start-up Cafe Murmansk,cafe,ChIJjax-5SkQNEQRXmO9YVcd97o,0
+2025-12-30 19:56:05,Pelmen house,cafe,ChIJa8krFSoQNEQRnrDg6WjIt5E,0
+2025-12-30 19:56:06,Coffee Like,cafe,ChIJpUkh5CkQNEQR4et76lqrFAI,0
+2025-12-30 19:56:06,Kafe-Bistro Tsentral'noye,cafe,ChIJGWl-ENkRNEQRgvDlZyARF_M,0
+2025-12-30 19:56:07,Mama mia,cafe,ChIJVVVVVdYPNEQRAPIx-WSXvds,0
+2025-12-30 19:56:08,Pel'mennaya,cafe,ChIJh71ztysQNEQRIOcUNEA2wxk,0
+2025-12-30 19:56:08,Murmansk Regional Children and Youth Library,library,ChIJp-5hgCgQNEQRPO5M0RHOih8,0
+2025-12-30 19:56:09,Murmansk Regional Universal Scientific Library,library,ChIJAZh5jCgQNEQRD9AX09HlnPE,0
+2025-12-30 19:56:10,Marusya,book_store,ChIJZ5fmdS4QNEQRVYLagCHEWgE,0
+2025-12-30 19:56:10,Internet Bookshop Labyrinth,book_store,ChIJHzbzCNcPNEQR3hBVf1H5XPY,0
+2025-12-30 19:56:11,Irrion,book_store,ChIJL7qxbcIPNEQRQKqXR-WE2DA,0
+2025-12-30 19:56:12,Knizhnyy Magazin Globus,book_store,ChIJi1sx2tAPNEQR7Ce64vCQ9w8,0
+2025-12-30 19:56:12,Bookvoed,book_store,ChIJWaf1zNoPNEQRY0KW1R5hsmc,0
+2025-12-30 19:56:13,Book world,book_store,ChIJhbNiKcMPNEQRQW5o4jiE6hY,0
+2025-12-30 19:56:13,Book World,book_store,ChIJA8O83eYPNEQRLm645c7MHww,0
+2025-12-30 19:56:14,Serenity Сomiсs,book_store,ChIJUVptwGwPNEQR7zepmPeQsSE,0
+2025-12-30 19:56:15,"Mbuk ""Vystavochnyy Zal G. Murmanska""",art_gallery,ChIJq_YFlS0QNEQRw1pihYjTQhs,0
+2025-12-30 19:56:15,Muzey Istorii Murmanskogo Morskogo Torgovogo Porta,museum,ChIJj4iwvtQRNEQR7cgon0Ck7DE,0
+2025-12-30 19:56:16,Murmanskiy Oblastnoy Khudozhestvennyy Muzey,museum,ChIJA8O83eYPNEQR9tycynax4oM,0
+2025-12-30 19:56:17,"Muzey Zanimatel'nykh Nauk ""Fokus""",museum,ChIJAZh5jCgQNEQR2YFM5-mDwhc,0
+2025-12-30 19:56:17,Murmanskiy Oblastnoy Krayevedcheskiy Muzey,museum,ChIJ8ZZPxi4QNEQRP2MYfHv2zs4,0
+2025-12-30 19:56:18,Lenin,museum,ChIJeU8UJNURNEQR28Gq7izw4Zk,0
+2025-12-30 19:56:19,Dom Remesel Murmanskogo Oblastnogo Khudozhestvennogo Muzeya,museum,ChIJuz8PLtoPNEQRwn-36LV7jQk,0
+2025-12-30 19:56:19,Muzey Boyevoy Slavy,museum,ChIJX5riU0BShUQRs5XAVSrjOQA,0
+2025-12-30 19:56:20,Abram Mys,museum,ChIJZ4YShsQPNEQR96W2PDJqhhY,0
+2025-12-30 19:56:21,Murmanskiy Oblastnoy Krayevedcheskiy Muzey,museum,ChIJA8O83eYPNEQRmjin2JkQwo4,0
+2025-12-30 19:56:21,Ametist,shopping_mall,ChIJ_xdsvtAPNEQRjZ4UtM1aPu0,0
+2025-12-30 19:56:22,Mirazh,shopping_mall,ChIJA8O83eYPNEQRkRxlznWmm54,0
+2025-12-30 19:56:22,Tsentral'nyy,shopping_mall,ChIJA8O83eYPNEQRX2A1PXheKPc,0
+2025-12-30 19:56:23,Dom Torgovli,shopping_mall,ChIJ6TiBdCkQNEQRNNRGBPIWV0E,0
+2025-12-30 19:56:24,Yavr,shopping_mall,ChIJj85MIyoQNEQRc_qAcwaUxVc,0
+2025-12-30 19:56:24,Arbat,shopping_mall,ChIJCXWCcdYPNEQRT1A1pJRuYis,0
+2025-12-30 19:56:25,Pioner,shopping_mall,ChIJf7PiFBFShUQReW-_q6obK_E,0
+2025-12-30 19:56:25,Zabota,shopping_mall,ChIJLyJcERFShUQRQkfUyvzE-DA,0
+2025-12-30 19:56:26,Alina,shopping_mall,ChIJ6V8YQBFShUQRDUkb3qu-Kio,0
+2025-12-30 19:56:27,Sokol,shopping_mall,ChIJf0H5_w9ShUQRLwpmNb20Dl0,0
+2025-12-30 19:56:27,"HI,POOH",shopping_mall,ChIJAdKFydoPNEQRtdCur16lip0,0
+2025-12-30 19:56:28,Elektron,shopping_mall,ChIJdYPIVNsPNEQRnrCmwF-28Mk,0
+2025-12-30 19:56:28,Liga,shopping_mall,ChIJc__ETMMPNEQRb0-2UBVZNBQ,0
+2025-12-30 19:56:29,Shou-Tekhnologii,shopping_mall,ChIJJRtIz9APNEQRMu-6XcyAFIk,0
+2025-12-30 19:56:30,Taganka,shopping_mall,ChIJndJHRQBShUQRWLrMIEcjyNc,0
+2025-12-30 19:56:30,Ekvator,shopping_mall,ChIJ1br5ABRShUQR4eMEZRn95d4,0
+2025-12-30 19:56:31,Moisey,shopping_mall,ChIJG3Y8FRRShUQR8eN8nGCHNPg,0
+2025-12-30 19:56:31,Aleks,shopping_mall,ChIJS3SoVhFShUQR6_6dSKdvamw,0
+2025-12-30 19:56:32,Metro 2,shopping_mall,ChIJr3REbdYPNEQRdCNVpEgxB8I,0
+2025-12-30 19:56:32,Modnyy Brend,shopping_mall,ChIJ-UpTkCsQNEQRxbyS9FGos50,0
+2025-12-30 19:56:33,Chayka,shopping_mall,ChIJEeZnFBRShUQRzgGInHTLxE8,0
+2025-12-30 19:56:34,Dzerzhinskiy,shopping_mall,ChIJJQn1LtcPNEQRtpNG-XrVq2M,0
+2025-12-30 19:56:35,Lyumin,shopping_mall,ChIJz5uy39kPNEQRMAURXW8uupQ,0
+2025-12-30 19:56:35,"""Al'batros-Dekor""",shopping_mall,ChIJKeUVJF4PNEQRG1ftutWDqLM,0
+2025-12-30 19:56:38,"Рюкзаки Dakine,Чемоданы , Дорожные сумки",shopping_mall,ChIJz6lO_yYQNEQRMT-6By4Km1U,0
+2025-12-30 19:56:38,Rus',shopping_mall,ChIJi0LNjNAPNEQRCV3MGIlJw4g,0
+2025-12-30 19:56:39,Murmansk Mall,shopping_mall,ChIJRYnlq9oPNEQRoTpNgjJRNis,0
+2025-12-30 19:56:39,"Murmansk Moll, Okey",shopping_mall,ChIJC4NIHNAPNEQR2KSCXdsvD2w,0
+2025-12-30 19:56:40,Kruzhka,adventure_sports_center,ChIJA8O83eYPNEQRJqoNvwiLFJo,0
+2025-12-30 19:56:41,Sushi-Bar Kay,restaurant,ChIJA8O83eYPNEQRbMOcoEwLYvY,0
+2025-12-30 19:56:41,Stopka,bar,ChIJA8O83eYPNEQR9G-9fHngD6k,0
+2025-12-30 19:56:42,Arktika,restaurant,ChIJd3NMhykQNEQRgPXnJVtRB3Q,0
+2025-12-30 19:56:43,Terrasa,restaurant,ChIJTyYZFRRShUQR87Y3VhUUwJY,100
+2025-12-30 19:56:43,Cherchill',bar,ChIJIx79iNYPNEQRutPvURV0w1M,0
+2025-12-30 19:56:44,Northern Bakeries,restaurant,ChIJX61JUBBShUQRdNeoB9Yi8Uw,0
+2025-12-30 19:56:44,Fortuna,restaurant,ChIJe84eAEBShUQRGhpSSEwi9pw,0
+2025-12-30 19:56:45,Amigos bar&grill,bar,ChIJPwwsfi4QNEQRwTBcV2klkQU,0
+2025-12-30 19:56:46,Kruzhka,bar,ChIJ9Z0KvtAPNEQRC5YoLe-zq_U,0
+2025-12-30 19:56:46,Nevod,bar,ChIJYwAJVQVShUQRcM-Z7DHX8_g,0
+2025-12-30 19:56:47,Sushi Wok,restaurant,ChIJN1esagVShUQRLm_HQOlBwyE,0
+2025-12-30 19:56:48,Staryy Tomas,restaurant,ChIJe1JJEAVShUQR5DBYYMbu_D8,0
+2025-12-30 19:56:48,FARFOR,restaurant,ChIJ0yhJIzAQNEQRSKPotMNZy-w,0
+2025-12-30 19:56:49,Kruzhka,restaurant,ChIJCQpdvt4PNEQR59VD6Qg3C-w,0
+2025-12-30 19:56:49,"""Tri Shefa""",restaurant,ChIJ7esVJsMPNEQRMQQFeQDJTM0,0
+2025-12-30 19:56:50,Sushi-Market,restaurant,ChIJRYnlq9oPNEQR5kBrCw43PZU,0
+2025-12-30 19:56:51,Shury-Mury,night_club,ChIJ-789BQFShUQRCpHO1xhcToM,0
+2025-12-30 19:56:51,Russkiye Bliny,restaurant,ChIJA8O83eYPNEQR5ZDBuiiDILA,0
+2025-12-30 19:56:52,Restoran Kinza Maniya,bar,ChIJl2n-rtcPNEQRAXYNe_cP7Ms,0
+2025-12-30 19:56:52,Fresh,bar,ChIJA8O83eYPNEQRwV_ecoXgBFw,0
+2025-12-30 19:56:53,Ledokol,night_club,ChIJA8O83eYPNEQRDwIjfkptGKo,0
+2025-12-30 19:56:54,Semeynyy Restoran Pitstsafabrika,restaurant,ChIJkcDIxwgRNEQROq6r81HECtg,0
+2025-12-30 19:56:54,Вкусно — и точка,restaurant,ChIJXbDjVAIRNEQRqHBHjaSrcho,0
+2025-12-30 19:56:55,Kongress-Otel' Meridian,adventure_sports_center,ChIJd5GpHCoQNEQRahI6sNSq3aw,0
+2025-12-30 19:56:56,Black Belt Hotel (Hostel),adventure_sports_center,ChIJfVLBwSMQNEQRQ8jTQtz1kzE,0
+2025-12-30 19:56:56,"Cosmos Murmansk Hotel, a member of Radisson Individuals",adventure_sports_center,ChIJdyefSdgPNEQR5qPr5yQAjVw,0
+2025-12-30 19:56:57,Alyosha,adventure_sports_center,ChIJJXT5_sgRNEQRO2Rv3tIP-50,0
+2025-12-30 19:56:57,Hostel Prichal,adventure_sports_center,ChIJay17680PNEQRCqnwj7q0Ycw,0
+2025-12-30 19:56:58,Tri Zaytsa,adventure_sports_center,ChIJIdejaC0QNEQROJqcXRK6-ec,0
+2025-12-30 19:56:59,AZIMUT Hotel Murmansk,adventure_sports_center,ChIJA8O83eYPNEQRCX-bFId7vVU,0
+2025-12-30 19:56:59,Rooms & Breakfast,adventure_sports_center,ChIJbTqsadgPNEQRNGOcTG0GdIo,0
+2025-12-30 19:57:00,Season's Hostel,adventure_sports_center,ChIJQyJL7ygQNEQRLcCW8hUyIzI,0
+2025-12-30 19:57:01,мини-отель Arctic Hotel,adventure_sports_center,ChIJuUHRmy0QNEQRSvs0AcFlkw8,0
+2025-12-30 19:57:01,Gubernskiy,adventure_sports_center,ChIJzcBkMSgQNEQR-UIcf5c76pQ,0
+2025-12-30 19:57:02,Arctic Home Downtown,adventure_sports_center,ChIJHZiR4C4QNEQRmYNk4B23-lA,0
+2025-12-30 19:57:02,Hostel on Karla Libknekhta 46,adventure_sports_center,ChIJr34B18wRNEQR4_rmP5DbFME,0
+2025-12-30 19:57:03,Khostel Yagel',adventure_sports_center,ChIJAwQQAaMRNEQR4A_19wbBsec,0
+2025-12-30 19:57:04,"Meditsinskiy Tsentr ""Glarus""",adventure_sports_center,ChIJyThkztUPNEQR8IELRCEZhOk,0
+2025-12-30 19:57:04,Avtotsentr,adventure_sports_center,ChIJA8O83eYPNEQR6SA3b5lO3Xg,0
+2025-12-30 19:57:05,Euroset,adventure_sports_center,ChIJVVVVVUkQNEQR63HFuE92xHM,0
+2025-12-30 19:57:05,Boutique Hotel Renaissance,adventure_sports_center,ChIJS3BczygQNEQRgnzFgLZXdJU,0
+2025-12-30 19:57:06,City Centre Otel,adventure_sports_center,ChIJ682BsS0QNEQRpU9sEPqJwtc,0
+2025-12-30 19:57:07,Sailor's Cabin Hostel,adventure_sports_center,ChIJm7y-NtoPNEQRPm67nEmQe48,0
+2025-12-30 19:57:07,Gloriya,adventure_sports_center,ChIJrYhLONAPNEQRQyLI7g4NVkM,0
+2025-12-30 19:57:08,Our planet,adventure_sports_center,ChIJA8O83eYPNEQRW4Jv7jdiRQY,0
+2025-12-30 19:57:08,"Murmansk, Skver",park,ChIJDSk4MioQNEQRGPUTbBPp04I,0
+2025-12-30 19:57:09,Ryabinovaya Alleya,park,ChIJI8uTddgPNEQR1J1mBDzrBBw,0
+2025-12-30 19:57:10,Ploshchad' Pyat' Uglov,park,ChIJvyFLjykQNEQRZo7vAVL49d8,0
+2025-12-30 19:57:11,Park Zhertv Interventsii,park,ChIJb70c0isQNEQRzGhi5IBn3BE,0
+2025-12-30 19:57:11,"Pamyatnik Rybakam I Korablyam, Pogibshim Pri Zashchite Sovetskogo Zapolyar'ya V Gody Velikoy Otechestvennoy Voyny.",park,ChIJ2QbYKdQPNEQRM_54zSJf55Y,0
+2025-12-30 19:57:12,Skver U Morskogo Vokzala,park,ChIJAyH4R7ARNEQRvEBxD73GIDY,0
+2025-12-30 19:57:13,Skver Vlyublennykh,park,ChIJ7fskjIgRNEQR8O4t5s5sNbk,0
+2025-12-30 19:57:13,Park,park,ChIJcxqPpdAPNEQRd6mXHm_t9FA,0
+2025-12-30 19:57:14,Park,park,ChIJdbTmitoPNEQRyzPXAxhQX9U,0
+2025-12-30 19:57:15,Detskaya Ploshchadka,park,ChIJ7dgyddAPNEQRZMgcuGsX3n0,0
+2025-12-30 19:57:15,Skazka,park,ChIJTWDUTM0RNEQRVUOhTMfIPd4,0
+2025-12-30 19:57:16,Naberezhnaya Vdol' Semonovskogo Ozera,park,ChIJd7cjU7URNEQRDhsTvbwuWa4,0
+2025-12-30 19:57:16,Korabl',park,ChIJrQplDbURNEQRafZTEhRnRIo,0
+2025-12-30 19:57:17,Kul'turno-Parkovyy Kompleks Im. Naydenova,park,ChIJrbeuVVBShUQRKAU4HNFlhJ8,0
+2025-12-30 19:57:17,Breakout-quests in reality,movie_theater,ChIJq6pubdYPNEQR6_Dd4xlzt-Q,0
+2025-12-30 19:57:18,Murmansk,movie_theater,ChIJL2HfT9gPNEQR8PQ3NT5oMzg,0
+2025-12-30 19:57:18,Severnoye Siyaniye,movie_theater,ChIJN_l8sNoPNEQR4dZCGdjWn3w,0
+2025-12-30 19:57:19,Lyumen Galaktika,movie_theater,ChIJgaNpACAQNEQRV9WhgBVrBdA,0
+2025-12-30 19:57:20,Pivnaya Karta,bar,ChIJlaFuABRShUQRpfsrOSSgk50,0
+2025-12-30 19:57:20,Pin-up,bar,ChIJT-OoBhFShUQR3iVjaXIO4yQ,0
+2025-12-30 19:57:21,Lit.ra,bar,ChIJKdSmmicQNEQRm58MKdFYnmw,0
+2025-12-30 19:57:21,NORTH BEAR Lounge,bar,ChIJRaIW-C4QNEQRmhMQSs6nKXs,0
+2025-12-30 19:57:22,Cherdak,bar,ChIJOzbynScQNEQRxvfZ0KOTtjQ,0
+2025-12-30 19:57:23,Pivnaya Karta,bar,ChIJQT9NBRBShUQRc-qlUBW3lmM,0
+2025-12-30 19:57:23,Ironiya Sud'by,night_club,ChIJg9moRRVShUQROpCkBAe6ojA,0
+2025-12-30 19:57:24,"""Chicago""",bar,ChIJAcLiF9EPNEQRj1syIZWkAhE,0
+2025-12-30 19:57:24,Bulldog Pub,bar,ChIJleEYFRFShUQRlvO6S5Tpkao,0
+2025-12-30 19:57:25,Rock and Roll,bar,ChIJL8ZkzcIPNEQRmybHn8NkCps,0
+2025-12-30 19:57:26,Harat's irish pub,bar,ChIJY9JUha8RNEQRAWnnxBdEeHA,0
+2025-12-30 19:57:26,Гастробар LOVI КРАБА,bar,ChIJbWu5fkERNEQRe2hN018QyO8,0
+2025-12-30 19:57:27,Pivnaya Karta,bar,ChIJNxvXkSsQNEQRKK6aGQ1j9CY,0
+2025-12-30 19:57:28,Dublin Irish Pub,bar,ChIJi7A4nm4RNEQRvHOtMThKjdA,0
+2025-12-30 19:57:28,BEERGEEK51,bar,ChIJ7R1flOgRNEQRkoWdaC_fbmY,0
+2025-12-30 19:57:29,ZALL CLUB & concert hall,night_club,ChIJl9_qM6IPNEQRm_QHNhVE6kU,0
+2025-12-30 19:57:30,Gogol',night_club,ChIJfdMLQSYQNEQRPO_G5VOSZMg,0
+2025-12-30 19:57:30,Hookah # 1916,night_club,ChIJqbyqBtEPNEQRfd7puDxygV4,0
+2025-12-30 19:57:31,OKEAN Hall,night_club,ChIJ4wI3BTURNEQRn3qwJf-x8Gc,0
+2025-12-30 19:57:32,"GOOD Night, Rooms & Hostel",night_club,ChIJP0WikRQPNEQRa-fOwDqHksg,0
+2025-12-30 19:57:32,Енотополис,night_club,ChIJwWg6mXYRNEQROuHfEBIfq10,0
+2025-12-30 19:57:33,Zажигалка,night_club,ChIJr-lBWRcRNEQRf90aizHXu4E,0
+2025-12-30 19:57:34,"Banketnyy Zal ""Otdykh Kholl""",night_club,ChIJf4HsqCMQNEQRKwGLJKcbkLs,0
+2025-12-30 19:57:34,"Olimpiya, Sportivnyy Tsentr",gym,ChIJA8O83eYPNEQRX5cDvwmT8iQ,0
+2025-12-30 19:57:35,Yoga Studio Jaya,gym,ChIJH2MtKS8QNEQRao9vAMosRYU,0
+2025-12-30 19:57:35,Nord Gym,gym,ChIJWaYlJiYQNEQRxFFkOqOSJ68,0
+2025-12-30 19:57:36,Akvafitnes,gym,ChIJRdIeQUBShUQRjGIbXXadFg0,0
+2025-12-30 19:57:37,Elit Fitnes,gym,ChIJ82sd_yYQNEQRmbdQ2XG1znk,0
+2025-12-30 19:57:37,Yogin,gym,ChIJ-9xl2i8QNEQRTAN0vSKNzFs,0
+2025-12-30 19:57:38,Tsentr Effektivnoy Fizkul'tury,gym,ChIJ7TI-LtoPNEQRKBdqCOybftc,0
+2025-12-30 19:57:38,Shkola Zdorov'ya,gym,ChIJC-IK_94PNEQR6__cPUsFwnc,0
+2025-12-30 19:57:39,S-Terminal,gym,ChIJscBuAERShUQRNwZ6oETZmuo,0
+2025-12-30 19:57:40,Kinezis,gym,ChIJ5zR3NugPNEQRwHcW-rXB-wk,0
+2025-12-30 19:57:40,StatuS Club,gym,ChIJ0cozgSkQNEQRg7jv1T_TPPQ,0
+2025-12-30 19:57:41,Lady Fitness,gym,ChIJldi5yNcPNEQRnIcscJd7n5c,0
+2025-12-30 19:57:41,Sadkhana,gym,ChIJx9Zu3S0QNEQRqtks_ZYgyKo,0
+2025-12-30 19:57:42,Bright Fit,gym,ChIJh2LncNkPNEQRtexapOe8kOk,0
+2025-12-30 19:57:43,Steel Life,gym,ChIJgW5XltAPNEQRm1DU-lOe3kM,0
+2025-12-30 19:57:44,Спортивный клуб «Ирбис»,gym,ChIJo0bU8SQPNEQRIyuqWfuMW8g,0
+2025-12-30 19:57:44,Solyanaya Peshchera Moresol',gym,ChIJE37yMDsQNEQRJdqiFkrj8bs,0
+2025-12-30 19:57:45,Health and beauty center Aesthetic Bio,gym,ChIJQQ37MNsPNEQRhksg3vadVhk,0
+2025-12-30 19:57:45,XFIT Мурманск,gym,ChIJuaDakdwPNEQRx-Eeb3nBoc8,0
+2025-12-30 19:57:46,ДЮСШ № 7 по боксу и кикбоксингу,gym,ChIJ78ujh8QPNEQR0tpn-1-1FIQ,0
+2025-12-30 19:57:46,Павловские бани (Cпортзал Сауна Солярий),gym,ChIJkZHWS-EPNEQRT5CJurE9qhQ,0
+2025-12-30 19:57:47,Murmansk,transit_station,ChIJd7deRBRShUQRfmXdofmwWsA,0
+2025-12-30 19:57:48,"Murmansk, Zheleznodorozhnaya Stantsiya Murmanskogo Tsentra Organizatsii Raboty Zheleznodorozhnykh S",transit_station,ChIJDeKATtMRNEQREVtD75Wwkfc,0
+2025-12-30 19:57:48,Murmansk Commercial Seaport,transit_station,ChIJA8O83eYPNEQRv_114miQiso,0
+2025-12-30 19:57:49,Avtovokzal,transit_station,ChIJA8O83eYPNEQR8KpHrOHe6eM,0
+2025-12-30 19:57:49,Marine Station,transit_station,ChIJDeKATtMRNEQRITjHNc2fP0c,0
+2025-12-30 19:57:50,Morvokzal,transit_station,ChIJx6dFxdQRNEQRqXimE3wsIeI,0
+2025-12-30 19:57:50,Sladkaya Zhizn',bakery,ChIJIc8RgCcQNEQR1WvwyT98_fI,0
+2025-12-30 19:57:51,Shtolle,bakery,ChIJbZYnFykQNEQRooIUR3QJOTw,0
+2025-12-30 19:57:52,Сити Гурмэ DAILY,bakery,ChIJfdSnAikQNEQRcg2IZxnQus8,0
+2025-12-30 19:57:52,Belyy Krolik,bakery,ChIJpfswwFkPNEQR8NiCMAU3wWA,0
+2025-12-30 19:57:54,Murmanskiy Khlebozavod Filial Khlebopek,bakery,ChIJwYSPZDIQNEQRRCnR8K7cfec,0
+2025-12-30 19:57:54,"Pekarnya ""Dobryy Khleb""",bakery,ChIJcWVKydwRNEQRjUbLkeMLwgA,0
+2025-12-30 19:57:55,Shtolle,bakery,ChIJPfgggz4RNEQR2TSmo6Ta9FM,0
+2025-12-30 19:57:55,Stroitel Stadium,stadium,ChIJA8O83eYPNEQRlKLgLcug2Io,0
+2025-12-30 19:57:56,Tsentral'nyy Stadion Profsoyuzov,stadium,ChIJnfFQ_isQNEQR7PPeaiJvs4s,0
+2025-12-30 19:57:57,Sport. School 11,stadium,ChIJP9pTPM0RNEQRcaByIKlTgi0,0
+2025-12-30 19:57:57,Авто-Заправочная Станция,cafe,ChIJkShSl7ERNEQR4NxDQMMEdm4,0
+2025-12-30 19:57:58,Yevromoyka,cafe,ChIJSXZ6lk4QNEQRZz47dJtSrtY,0
+2025-12-30 19:57:59,Kafe,cafe,ChIJWUQYmU0QNEQRDl7407IMAfI,0
+2025-12-30 19:57:59,Merry Baker,bakery,ChIJA8O83eYPNEQRLOCPH-PYTFs,0
+2025-12-30 19:58:00,Kafe-Bar Urartu,bar,ChIJjRFgm6ARNEQR633Y1Vg7_Ww,0
+2025-12-30 19:58:01,Lavanda,cafe,ChIJI_rTqaARNEQR5MV5857tTzQ,0
+2025-12-30 19:58:01,Yakor',bar,ChIJZ6qirAoRNEQRMMVoiN5EFOU,0
+2025-12-30 19:58:02,Кофейня #1,cafe,ChIJLb5hrDYRNEQR0oBGVWADr-8,0
+2025-12-30 19:58:02,Shaurma Tsezar',cafe,ChIJaW9oik8RNEQRqurIEj8mIl0,0
+2025-12-30 19:58:03,Кофейня #1 Мореход,cafe,ChIJe_BEcgcRNEQRGZF-SocCBA8,0
+2025-12-30 19:58:04,Shaverma,cafe,ChIJde6xnEQRNEQRJ0WosGZHtFg,0
+2025-12-30 19:58:04,Шаверма Craft,restaurant,ChIJhzy7i2IRNEQRug9MY9DASz0,0
+2025-12-30 19:58:05,Kuren',bar,ChIJy6NPzjIQNEQRWR4uwrZdtmI,0
+2025-12-30 19:58:05,Shaverma,cafe,ChIJoejkt7IRNEQRjohFzUyoYrI,0
+2025-12-30 19:58:06,Green Mile,bar,ChIJIbBuUVFShUQRcMg_WTbByww,0
+2025-12-30 19:58:06,Шаверма King,cafe,ChIJwfwnIk0QNEQRgUArSVtV1Zc,0
+2025-12-30 19:58:07,Shaverma Shashlyk Gril',bar,ChIJe5f0JE0QNEQR7nSX1nPjeXo,0
+2025-12-30 19:58:07,Andizhan,cafe,ChIJG-9l3wcRNEQRg3d1W6ra2Ko,0
+2025-12-30 19:58:08,Zakusochnaya,cafe,ChIJryFtAAFThUQRwcbWgfxoJzg,0
+2025-12-30 19:58:09,Razgulyay,cafe,ChIJTwxznC0QNEQROF4eXfzJsD8,0
+2025-12-30 19:58:09,Bublik,cafe,ChIJfZi5kqwRNEQRrtNukyCDtbY,0
+2025-12-30 19:58:10,"Kafe Uzbekskoy Kukhni ""Samarkand""",cafe,ChIJh8gwj3ARNEQRUS-sIiNwjpQ,0
+2025-12-30 19:58:10,Kafe,cafe,ChIJjxdIbNsRNEQReIYd50pPreg,0
+2025-12-30 19:58:11,Tezey,book_store,ChIJl5lLnK0RNEQRmy-Jt_S2uAQ,0
+2025-12-30 19:58:11,Knigi,book_store,ChIJ2_kVURBThUQR9-Wl4w8JVSw,0
+2025-12-30 19:58:12,Vostok,shopping_mall,ChIJlwlWUBBThUQRlggCd7_1Cdg,0
+2025-12-30 19:58:13,Vstrechi,shopping_mall,ChIJBbABFLcRNEQR0Qy6zHy-7B8,0
+2025-12-30 19:58:13,Mir,shopping_mall,ChIJX8KvjLERNEQRzCztaI0cWC4,0
+2025-12-30 19:58:14,Gum Tts,shopping_mall,ChIJJ9xa5qgRNEQRoLw0Br2uFYU,0
+2025-12-30 19:58:15,Pyaterochka,shopping_mall,ChIJ7RdW-qsRNEQRsc9clVJLONo,0
+2025-12-30 19:58:15,Solnechnyy,shopping_mall,ChIJwcL8TxVShUQRThkUmWLAElo,0
+2025-12-30 19:58:16,Katran Trade,restaurant,ChIJA8O83eYPNEQR7PnwZk7UP6U,0
+2025-12-30 19:58:16,Kruzhka,restaurant,ChIJVdmvcaURNEQRX_-11tfwsKw,0
+2025-12-30 19:58:17,Yerevan Cafe,restaurant,ChIJiyXaF7QRNEQRjvfMdpbm1EY,0
+2025-12-30 19:58:18,Sushi Fud,restaurant,ChIJO-uGussRNEQR3sa58CowyVs,0
+2025-12-30 19:58:18,Shaverma,restaurant,ChIJS6pyP-URNEQRwN8Eeb2h2r8,0
+2025-12-30 19:58:19,Trdel'nik Murmansk,restaurant,ChIJpf2VpHwRNEQRhy7o-gwzcuY,0
+2025-12-30 19:58:19,Vkus Ulits Murmansk Geroi,restaurant,ChIJ5RG_s3gRNEQRSaqfj_7ohvo,0
+2025-12-30 19:58:20,Sushki,restaurant,ChIJtzp0TLMRNEQRrZuRm10ObL4,0
+2025-12-30 19:58:21,Sushi wok,restaurant,ChIJvaMlSa4RNEQRLXPvP-4RbO4,0
+2025-12-30 19:58:21,Dary 7 Morey,restaurant,ChIJE0_CwNsPNEQRq-xlv0FiBOQ,0
+2025-12-30 19:58:22,Суши life,restaurant,ChIJHY5TzB8RNEQRJkmkD5OHUNY,0
+2025-12-30 19:58:22,Kafe Baku,restaurant,ChIJ0ZBG5ywRNEQRbQItrserkQc,0
+2025-12-30 19:58:23,Blackwood beer garage,bar,ChIJxcPm-vERNEQRccNVv4aond0,0
+2025-12-30 19:58:24,Tunets,restaurant,ChIJn50UMPIRNEQRx8xIiDv643M,0
+2025-12-30 19:58:24,Pitstseriyka,restaurant,ChIJD9ATmhYRNEQRQujCJUWY4oI,0
+2025-12-30 19:58:25,Alan,restaurant,ChIJVVVVVdYPNEQRYrfzc5rfKuA,0
+2025-12-30 19:58:26,Фьорд,adventure_sports_center,ChIJuyJoZqARNEQRn8CCMmL6OCI,0
+2025-12-30 19:58:26,Kvartiry Posutochno Murmansk,adventure_sports_center,ChIJVVVVVUkQNEQRR4MasCit8vo,0
+2025-12-30 19:58:27,Otdel Sudebnykh Pristavov Leninskogo Okruga G. Murmanska,adventure_sports_center,ChIJA8O83eYPNEQRu0zpOXSZ_zc,0
+2025-12-30 19:58:28,"""Solo""",adventure_sports_center,ChIJAeD5Mq4RNEQRZRl5H5xgTWs,0
+2025-12-30 19:58:28,Baykal Servis,adventure_sports_center,ChIJA8O83eYPNEQRC-idKi9spg4,0
+2025-12-30 19:58:29,Papirus,adventure_sports_center,ChIJX-StZS0QNEQR6UsZIcgOegg,0
+2025-12-30 19:58:29,Mir Upakovki,adventure_sports_center,ChIJA8O83eYPNEQRwo7RO1R3Z3s,0
+2025-12-30 19:58:30,Church of the Holy Great Martyr and Healer Panteleimon,adventure_sports_center,ChIJA8O83eYPNEQRKdSGYlLJzrQ,0
+2025-12-30 19:58:31,Profodezhda 51,adventure_sports_center,ChIJiyYCxbsRNEQRKGnA2_LR9T8,0
+2025-12-30 19:58:32,Izgotovleniye Memorial'nykh Dosok,park,ChIJf8oGF7ERNEQRt2X-bNknv9Y,0
+2025-12-30 19:58:32,Skver Mezhdu Ulitsami Khlobystova I Nevskogo,park,ChIJ8yh7Pa8RNEQRUfJgTL-xDXQ,0
+2025-12-30 19:58:33,Alleya U Detskiy Ploshchadki,park,ChIJRQoqV68RNEQR-_nwxgv-NVM,0
+2025-12-30 19:58:34,Avrora,movie_theater,ChIJ_ZapuQoRNEQR9pDiisujyv0,0
+2025-12-30 19:58:34,Milan,bar,ChIJA8O83eYPNEQRxdsKxICqKHw,0
+2025-12-30 19:58:35,Beer card,bar,ChIJZSP9A1RShUQR2TbjDWpiNic,0
+2025-12-30 19:58:35,Beer card,bar,ChIJK7o-QAFThUQRLD7M0esot_8,0
+2025-12-30 19:58:36,Bar Zero,bar,ChIJn1YTERBThUQRDv2pw-i-Ck8,0
+2025-12-30 19:58:37,"Garin, dj bar",night_club,ChIJWf3BL7sRNEQRprlb-kJZSsI,0
+2025-12-30 19:58:37,Pivnaya Karta,bar,ChIJMVEFaq4RNEQR1FvMPV1Pxpw,0
+2025-12-30 19:58:38,Pivnaya Karta,bar,ChIJH7b-zDYQNEQROSRl1kWfVDg,0
+2025-12-30 19:58:38,Sauna Berloga,night_club,ChIJBzc_y0UQNEQRO2ZS7blu3tA,0
+2025-12-30 19:58:39,ФИТНЕС МАСТЕР Ленинский,gym,ChIJT977GKwRNEQRvSbEMQMdpNY,0
+2025-12-30 19:58:40,"SPORT FITNESS CLUB ""ALL DAY""",gym,ChIJH4HmYakRNEQR8IaAUi5tobQ,0
+2025-12-30 19:58:40,Sauna Parus,gym,ChIJ4yVWAQVThUQRlUQcV6O4gN8,0
+2025-12-30 19:58:41,"Center for Effective Physical Education ""Fizkult""",gym,ChIJjajKxNsPNEQRTx0D606e4ow,0
+2025-12-30 19:58:42,Molodezhnyy Sportivnyy Tsentr,gym,ChIJZSIS9LIRNEQRsP8EC9j8tB0,0
+2025-12-30 19:58:42,Nord Rusich,gym,ChIJJfFDaa4RNEQRMthBosyU8-k,0
+2025-12-30 19:58:43,Siti Gurme,bakery,ChIJIUw4FLcRNEQRs5tRyI8gFBw,0
+2025-12-30 19:58:44,City Gourmet,bakery,ChIJVdmvcaURNEQRtyiFWYJazkI,0
+2025-12-30 19:58:44,Belaya Vezha,bakery,ChIJHXE8RFFShUQRPwHLICoJXgQ,0
+2025-12-30 19:58:45,Viktoriya,bakery,ChIJBejqa6gRNEQRv56Yq__-7xE,0
+2025-12-30 19:58:46,Slegka Ne Zamuzhem,adventure_sports_center,ChIJtXSRcogPNEQRRxCvlSs3iwY,0
+2025-12-30 19:58:46,Кружка,bar,ChIJPbxvJX4FNEQRg_r6vt0CpiM,0
+2025-12-30 19:58:47,Ryazhenka,restaurant,ChIJWbzGMX4FNEQRwVS_gtSGJnU,0
+2025-12-30 19:58:48,Mirage Cinema,movie_theater,ChIJUzWpJX4FNEQRrj2-F5lI9P4,0
+2025-12-30 19:58:48,Gala,cafe,ChIJA8O83eYPNEQRiV3PpFXVTqY,0
+2025-12-30 19:58:49,U Matveya,cafe,ChIJ6RJdvl4FNEQR_zvSJthW-UI,0
+2025-12-30 19:58:50,Shtolle,bakery,ChIJrylgV84PNEQRGGyhRdcjgo0,0
+2025-12-30 19:58:50,Dodo Pizza,restaurant,ChIJsbpVhEUPNEQReK4ApKAaMKU,0
+2025-12-30 19:58:51,Pitstseriyka,bakery,ChIJiZf-TTMPNEQRdpUPCj8sDm0,0
+2025-12-30 19:58:52,Golden creek,restaurant,ChIJocylloEFNEQRKJdBVz3zSOI,0
+2025-12-30 19:58:52,Zam-Zam,cafe,ChIJOYKlclMPNEQRbFr1GJ_x_k8,0
+2025-12-30 19:58:53,Шаверма Craft,restaurant,ChIJkQs7jp4FNEQRy-h0Hi5rnGg,0
+2025-12-30 19:58:53,Mbuk Tsentral'naya Detskaya Biblioteka G. Murmanska,library,ChIJ0Yo9o30FNEQRAYPPFDB_g88,0
+2025-12-30 19:58:54,Central City Library in Murmansk,library,ChIJB7PtLoEPNEQRYt9UZ1x1BhY,0
+2025-12-30 19:58:55,Bookvoed,book_store,ChIJyStXJX4FNEQRn6RUhno4xuw,0
+2025-12-30 19:58:55,Germes,adventure_sports_center,ChIJA8O83eYPNEQRBWRMmzn_EQs,0
+2025-12-30 19:58:56,Severnoye Nagornoye,movie_theater,ChIJ67D5EEFOhUQR2ZOT0bqcRXQ,0
+2025-12-30 19:58:56,Zhemchug,shopping_mall,ChIJ50cOsPQPNEQR-x0KemlTIkY,0
+2025-12-30 19:58:57,"Trts ""Forum""",shopping_mall,ChIJKwek-2IFNEQR8vUOZMCm1Qs,0
+2025-12-30 19:58:58,Yelan,shopping_mall,ChIJJ3RDkvIPNEQRYJ6TvTyhTqw,0
+2025-12-30 19:58:58,Tts Flagman,shopping_mall,ChIJX7qP_JMFNEQRRKyMzlqFMho,0
+2025-12-30 19:58:59,Auto + Citigid program and navigators,shopping_mall,ChIJQ44wlp0PNEQR14mAXohU6bU,0
+2025-12-30 19:59:00,Krokus,shopping_mall,ChIJNXgLC_MPNEQRiJSSd_hdT4E,0
+2025-12-30 19:59:00,Praga,adventure_sports_center,ChIJA8O83eYPNEQRd9em-H5ZAyU,0
+2025-12-30 19:59:01,Pilgrim Brewery,adventure_sports_center,ChIJA8O83eYPNEQRUZ__ifTnbes,0
+2025-12-30 19:59:01,Sushi Shop,restaurant,ChIJzcwBvIAPNEQRG6QfrgDCUdE,0
+2025-12-30 19:59:02,Sushi Wok,restaurant,ChIJoeYKBUVOhUQRhAc6D6qH4uo,0
+2025-12-30 19:59:03,Kommunalka,night_club,ChIJlwOHGYQFNEQRPrII6iHmqEQ,0
+2025-12-30 19:59:03,Adellise,restaurant,ChIJkUzPR4QFNEQRdZgxs8s_oxc,0
+2025-12-30 19:59:04,Tzarskaya Okhota,restaurant,ChIJESMH1ogPNEQRcjyvhio1viM,0
+2025-12-30 19:59:05,"Panoramic restaurant ""The Yegorycha""",restaurant,ChIJWXHwlF4FNEQRXnntDRQ4mKQ,0
+2025-12-30 19:59:05,Burger King,restaurant,ChIJ7xtOw1wFNEQRwiAaRwW8SWc,0
+2025-12-30 19:59:06,Sushi,restaurant,ChIJ5acCczIQNEQRQ99RTBwCVZg,0
+2025-12-30 19:59:07,Вкусно — и точка,restaurant,ChIJNy-lM2QFNEQRWK9vLnecnCk,0
+2025-12-30 19:59:08,Sushi Beri,restaurant,ChIJT4iAl9ERNEQRBASze0j-PIk,0
+2025-12-30 19:59:09,Kruzhka,night_club,ChIJgXNkcogPNEQReytBCr9yQnc,0
+2025-12-30 19:59:10,Shashlyk Mashlyk,restaurant,ChIJ67aKG14FNEQRsDzxyMLRShs,0
+2025-12-30 19:59:10,Discovery,adventure_sports_center,ChIJWxyfwYEFNEQReaEctK3AWZg,0
+2025-12-30 19:59:11,Nord Star Ski Complex / Recreation,adventure_sports_center,ChIJA8O83eYPNEQRediegJRpa-I,0
+2025-12-30 19:59:11,"Otel' ""Ogni Murmanska""",adventure_sports_center,ChIJ6RJdvl4FNEQRSUxlWLHbXfw,0
+2025-12-30 19:59:12,Commune Hostel,adventure_sports_center,ChIJF8xpANoPNEQRjt1c21a9WuA,0
+2025-12-30 19:59:12,Детская городская поликлиника № 4,adventure_sports_center,ChIJA8O83eYPNEQRa8T7Hlfdmw4,0
+2025-12-30 19:59:13,Notarius,adventure_sports_center,ChIJA8O83eYPNEQRUjkWa5M2hN8,0
+2025-12-30 19:59:14,Avtoplyus,adventure_sports_center,ChIJPeB3lp0PNEQRu0UPoMeDFng,0
+2025-12-30 19:59:14,Post of Russia,adventure_sports_center,ChIJ6Sv47X8PNEQR2bKiCSDc9Mw,0
+2025-12-30 19:59:15,Promtekhkontrakt,adventure_sports_center,ChIJA8O83eYPNEQRRX9ESsR1UUw,0
+2025-12-30 19:59:15,Megafon,adventure_sports_center,ChIJo5JCk4APNEQRzMrdZ45Ogjc,0
+2025-12-30 19:59:16,Lyuks,adventure_sports_center,ChIJA8O83eYPNEQRRBcLpBpPUKU,0
+2025-12-30 19:59:17,Tsentr Medtekhniki,adventure_sports_center,ChIJO8O83eYPNEQRCa3ad8R-Ggg,0
+2025-12-30 19:59:17,Kodak,adventure_sports_center,ChIJfaampoAPNEQR9s5FhxkWmzI,0
+2025-12-30 19:59:18,"""Domiki U Foruma""",park,ChIJz-RCABVOhUQRc8aREPRb79E,0
+2025-12-30 19:59:19,Fontan,park,ChIJ-XoMUIsPNEQRUTNqPQWKj60,0
+2025-12-30 19:59:19,Skameyka Vlyublonnykh,park,ChIJxT3kT4sPNEQR7pOpRjT6eEM,0
+2025-12-30 19:59:20,Kronverk Cinema Forum,movie_theater,ChIJjVLe7OYPNEQR_ntQmglofzM,0
+2025-12-30 19:59:21,Penal'ti,bar,ChIJq6rqwX0FNEQRvaICMZN7o_A,0
+2025-12-30 19:59:21,Gubernskiy,bar,ChIJcShm-YAFNEQRpBUAVbakhqQ,0
+2025-12-30 19:59:22,Česká Piwnica,bar,ChIJD76usfQPNEQRn1EiecFcVt8,0
+2025-12-30 19:59:23,Mazhor,bar,ChIJHZ0dZ38PNEQR6dCdQcYi4xw,0
+2025-12-30 19:59:23,Chill out,bar,ChIJcRpvn4sPNEQRffZ_K9R7Nqw,0
+2025-12-30 19:59:24,Pyatnitsa,bar,ChIJjSq3X48FNEQRiw7FWEqmK2c,0
+2025-12-30 19:59:24,Khmel'naya Mel'nitsa,bar,ChIJV_hD248FNEQRlmFqDEsPIiw,0
+2025-12-30 19:59:25,Bar Bir Fish,bar,ChIJt9Lnig8PNEQRli17PuYmysE,0
+2025-12-30 19:59:25,Noch',night_club,ChIJJ7NHNpEFNEQRpbegxcPA668,0
+2025-12-30 19:59:26,"Тренажёрный зал ""Steel Life""",gym,ChIJiW48UH8PNEQRTn1fdqD6JOI,0
+2025-12-30 19:59:27,Фитнес Мастер Первомайский,gym,ChIJravPloEFNEQRiciKRJcqYaE,0
+2025-12-30 19:59:27,"""Fresh Life"" fitness club",gym,ChIJy-zDOIEFNEQRsqbY4_Hugio,0
+2025-12-30 19:59:28,"Stadion ""Yunost'""",gym,ChIJYQ8vTIQFNEQRGyaKCt9KYcs,0
+2025-12-30 19:59:28,Omega fitness,gym,ChIJA8O83eYPNEQRs3QgGI9smKE,0
+2025-12-30 19:59:29,"Тренажерный зал ""Classic GYM""",gym,ChIJfVw09roRNEQR5sTdW2DYSXQ,0
+2025-12-30 19:59:29,"""Energy Port"" Fitness Centre",gym,ChIJ3d8eF4QFNEQRI2Rt72CYAbo,0
+2025-12-30 19:59:30,sports complex,gym,ChIJF_EGe4sPNEQR_br46CCyMq4,0
+2025-12-30 19:59:31,"CrossFit, КФМ Murmansk Functional Training",gym,ChIJH-8Io10PNEQRDeaEoj4FJ9s,0
+2025-12-30 19:59:31,Lakomka,bakery,ChIJo5JCk4APNEQRHwkGsQtt7Tk,0
+2025-12-30 19:59:32,Merry baker,bakery,ChIJE-cDAQVOhUQRK2WBztOM0Og,0
+2025-12-30 19:59:33,Testu Mesto,bakery,ChIJjYjXkvIPNEQRRkPgYvpm_lg,0
+2025-12-30 19:59:33,"Stadium ""Icicle""",stadium,ChIJ-XHJZocPNEQRkEfRO4U1dSI,0
